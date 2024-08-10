@@ -3,7 +3,7 @@
 
 I am a dynamic and results-driven engineering undergraduate with an academic foundation in Electronics and Communication and extensive hands-on experience in technical event coordination, content writing, and web development. I am adept in various programming languages including Python, C, HTML/CSS, and JavaScript, with a keen eye for front-end development and a passion for creative and technical writing.
 
-<b>GSSOC(24) Badges 🪶</b><br>
+<b>GirlScript Summer of Code'24 Badges</b><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
  <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
