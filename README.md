@@ -16,11 +16,11 @@ I am a dynamic and results-driven engineering undergraduate with an academic fou
 </div>
 <h2 align="left">Commit Stats ⭐️</h2>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ellen-rose-james&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellen-rose-james&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ellen-rose-james&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=ellen-rose-james&hide_title=false&hide=stars,issues&show=prs_merged,prs_merged_percentage&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=en&hide_border=false&bg_color=000&order=1" height="150" alt="stats graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellen-rose-james&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=calm&hide_border=false&bg_color=000&count_private=false&order=2" height="150" alt="languages graph"  />
+  <!-- <img src="https://github-profile-trophy.vercel.app?username=ellen-rose-james&theme=calm&bg_color=000&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ellen-rose-james&theme=monokai&order=3" height="150" alt="GitHub Streak" /></a> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellen-rose-james&radius=16&theme=monokai&area=true&order=5" height="264" alt="activity-graph graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ellen-rose-james&radius=16&theme=gruvbox&bg_color=000&area=true&order=5" height="264" alt="activity-graph graph"/>
 </div>
 
 
